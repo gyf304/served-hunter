@@ -28,6 +28,7 @@
 
 namespace served {
 
+#undef DELETE
 /*
  * HTTP method enum
  */
